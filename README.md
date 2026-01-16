@@ -7,3 +7,4 @@
 - .gitignore 설정
 - venv Git 추적 제거 실습
 - User1: Ubuntu에서 README 수정
+- User2: Windows에서 README 수정
