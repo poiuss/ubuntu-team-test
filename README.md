@@ -6,4 +6,8 @@
 - 가상환경(.venv) 생성
 - .gitignore 설정
 - venv Git 추적 제거 실습
+<<<<<<< HEAD
+=======
+- User1: Ubuntu에서 README 수정
+>>>>>>> 3829dd7fc98d64d53222aaa53b6cabe39d3b061f
 - User2: Windows에서 README 수정
